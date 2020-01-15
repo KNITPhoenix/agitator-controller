@@ -1,2 +1,2 @@
-# agitator-controller
+# agitator-controller (confidential)
 agitator control for pcb 
